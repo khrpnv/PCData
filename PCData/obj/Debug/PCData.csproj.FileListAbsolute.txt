@@ -1,0 +1,17 @@
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.csprojAssemblyReference.cache
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.PCData.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.Properties.CPInfo.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.Properties.Resources.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\bin\Debug\PCData.exe.config
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\bin\Debug\PCData.exe
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\bin\Debug\PCData.pdb
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.exe
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.pdb
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.CollectingData.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.MotherBoard.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.Graphics.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.GeneralInfo.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.Properties.DynamicParams.resources
+C:\Users\Илья\Desktop\АКОКМ\AdditionalTask\PCData\PCData\obj\Debug\PCData.Properties.Memory.resources
